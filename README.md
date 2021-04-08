@@ -1,4 +1,18 @@
-### Hi there 👋, my name is Lisa and I love everything front end.
+### Hi there 👋, my name is Lisa.
+#### I am a front end developer from Germany.
+![I am a front end developer from Germany.](https://lisaschumann.com/images/kaja-paradiek-illustration-lisa-schumann-icon.png)
+
+From design to animation, I love everything that has to do with front end.
+
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React 
+- ⚡ Fun fact: I'm a singer by day. 
+
+
+
+
 
 <!--
 **lisaschumann/lisaschumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
