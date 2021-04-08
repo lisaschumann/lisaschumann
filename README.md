@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Lisa and I love everything front end.
 
 <!--
 **lisaschumann/lisaschumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
