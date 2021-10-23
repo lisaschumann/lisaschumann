@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lisa.
 #### I am a front end developer from Germany.
-![I am a front end developer from Germany.](https://lisaschumann.com/resources/images/unused/kaja-paradiek-illustration-lisa-schumann-icon.png)
+![Illustration of a woman with parrots on her head.](https://lisaschumann.com/resources/images/unused/kaja-paradiek-illustration-lisa-schumann.gif)
 
 From design to animation, I love everything that has to do with front end.
 
