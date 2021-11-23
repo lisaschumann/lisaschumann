@@ -10,7 +10,7 @@ Skills: REACT / JS / HTML / CSS
 - 🌱 I’m currently learning React 
 - ⚡ Fun fact: I'm a singer by day. 
 
-
+You can find my portfolio over at [www.lisaschumann.com](https://lisaschumann.com) ✨
 
 
 
