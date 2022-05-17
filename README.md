@@ -4,13 +4,13 @@
 
 From design to animation, I love everything that has to do with front end.
 
-Skills: REACT / JS / HTML / CSS
+Skills: NuxtJS / Vue / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning to dance Salsa.
 - ⚡ Fun fact: I'm a singer by day. 
 
-You can find my portfolio over at [www.lisaschumann.com](https://lisaschumann.com) ✨
+You can find my portfolio over at [lisaschumann.com](https://lisaschumann.com) ✨
 
 
 
