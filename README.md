@@ -15,7 +15,7 @@ You can find my portfolio over at [lisaschumann.com](https://lisaschumann.com) �
 
 
 <!--
-**lisaschumann/lisaschumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lisaschumann/lisaschumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile!
 
 Here are some ideas to get you started:
 
