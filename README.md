@@ -4,7 +4,7 @@
 
 From design to animation, I love everything that has to do with front end.
 
-Skills: NuxtJS / Vue / JS / HTML / CSS / GSAP
+Skills: NuxtJS / Vue / JS / HTML / CSS
 
 - 🔭 I’m currently working on new animations. 
 - 🌱 I’m learning to dance Salsa.
