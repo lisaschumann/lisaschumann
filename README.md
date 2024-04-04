@@ -8,6 +8,6 @@ Skills: NuxtJS / Vue / JS / HTML / CSS
 
 - 🔭 I’m currently working on new animations. 
 - 🌱 I’m learning to dance Salsa.
-- ⚡ Fun fact: I'm also a singer.
+- ⚡ Fun fact: I'm also a singer!
 
 You can find my portfolio over at [lisaschumann.com](https://lisaschumann.com) ✨
